@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\dpproject\\dpproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|solutionrelative:dpproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\dpproject\\dpproject\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|solutionrelative:dpproject\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\dpproject\\dpproject\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|solutionrelative:dpproject\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\dpproject\\dpproject\\factorsconfirms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|solutionrelative:dpproject\\factorsconfirms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\dpproject\\dpproject\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|solutionrelative:dpproject\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\dpproject\\dpproject\\state\\commitedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|solutionrelative:dpproject\\state\\commitedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\dpproject\\dpproject\\state\\draftstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|solutionrelative:dpproject\\state\\draftstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\dpproject\\dpproject\\state\\mergedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|solutionrelative:dpproject\\state\\mergedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\dpproject\\dpproject\\state\\underreviewstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|solutionrelative:dpproject\\state\\underreviewstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\dpproject\\dpproject\\state\\stagedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|solutionrelative:dpproject\\state\\stagedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\dpproject\\dpproject\\state\\readytomergestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|solutionrelative:dpproject\\state\\readytomergestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\dpproject\\dpproject\\state\\itemsstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|solutionrelative:dpproject\\state\\itemsstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\dpproject\\dpproject\\composite\\itemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|solutionrelative:dpproject\\composite\\itemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\dpproject\\dpproject\\memento\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|solutionrelative:dpproject\\memento\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\dpproject\\dpproject\\memento\\imemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|solutionrelative:dpproject\\memento\\imemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\dpproject\\dpproject\\composite\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|solutionrelative:dpproject\\composite\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\dpproject\\dpproject\\composite\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|solutionrelative:dpproject\\composite\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\dpproject\\dpproject\\dpproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8254CDFA-0BBA-4A2A-9461-F1E67F13C086}|DPProject\\DPProject.csproj|solutionrelative:dpproject\\dpproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Desktop\\\u05E0\u05D7\u05DE\u05D4\\\u05DE\u05E1\u05DC\u05D5\u05D5\u05D5\u05D5\u05D5\u05DC\\Desighn Paterns\\DesignPaterensProject\\DPProject\\DPProject\\Composite\\FileSystemComposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Desktop\\\u05E0\u05D7\u05DE\u05D4\\\u05DE\u05E1\u05DC\u05D5\u05D5\u05D5\u05D5\u05D5\u05DC\\Desighn Paterns\\DesignPaterensProject\\DPProject\\DPProject\\State\\FileState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Desktop\\\u05E0\u05D7\u05DE\u05D4\\\u05DE\u05E1\u05DC\u05D5\u05D5\u05D5\u05D5\u05D5\u05DC\\Desighn Paterns\\DesignPaterensProject\\DPProject\\DPProject\\Hobserver\\FileOriginator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Desktop\\\u05E0\u05D7\u05DE\u05D4\\\u05DE\u05E1\u05DC\u05D5\u05D5\u05D5\u05D5\u05D5\u05DC\\Desighn Paterns\\DesignPaterensProject\\DPProject\\DPProject\\Hobserver\\FileCaretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommitedState.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\State\\CommitedState.cs",
+              "RelativeDocumentMoniker": "DPProject\\State\\CommitedState.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\State\\CommitedState.cs",
+              "RelativeToolTip": "DPProject\\State\\CommitedState.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:51:29.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DraftState.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\State\\DraftState.cs",
+              "RelativeDocumentMoniker": "DPProject\\State\\DraftState.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\State\\DraftState.cs*",
+              "RelativeToolTip": "DPProject\\State\\DraftState.cs*",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:51:30.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MergedState.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\State\\MergedState.cs",
+              "RelativeDocumentMoniker": "DPProject\\State\\MergedState.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\State\\MergedState.cs",
+              "RelativeToolTip": "DPProject\\State\\MergedState.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:51:30.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnderReviewState.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\State\\UnderReviewState.cs",
+              "RelativeDocumentMoniker": "DPProject\\State\\UnderReviewState.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\State\\UnderReviewState.cs",
+              "RelativeToolTip": "DPProject\\State\\UnderReviewState.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBUAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:51:29.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\Branch.cs",
+              "RelativeDocumentMoniker": "DPProject\\Branch.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\Branch.cs*",
+              "RelativeToolTip": "DPProject\\Branch.cs*",
+              "ViewState": "AQIAAGQAAAAAAAAAAAA8wCYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:51:29.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FactorsConfirms.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\FactorsConfirms.cs",
+              "RelativeDocumentMoniker": "DPProject\\FactorsConfirms.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\FactorsConfirms.cs",
+              "RelativeToolTip": "DPProject\\FactorsConfirms.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:50:31.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\Program.cs",
+              "RelativeDocumentMoniker": "DPProject\\Program.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\Program.cs",
+              "RelativeToolTip": "DPProject\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:51:30.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\Review.cs",
+              "RelativeDocumentMoniker": "DPProject\\Review.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\Review.cs",
+              "RelativeToolTip": "DPProject\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:51:13.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\User.cs",
+              "RelativeDocumentMoniker": "DPProject\\User.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\User.cs",
+              "RelativeToolTip": "DPProject\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:51:28.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StagedState.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\State\\StagedState.cs",
+              "RelativeDocumentMoniker": "DPProject\\State\\StagedState.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\State\\StagedState.cs",
+              "RelativeToolTip": "DPProject\\State\\StagedState.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowCoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:51:29.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReadyToMergeState.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\State\\ReadyToMergeState.cs",
+              "RelativeDocumentMoniker": "DPProject\\State\\ReadyToMergeState.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\State\\ReadyToMergeState.cs",
+              "RelativeToolTip": "DPProject\\State\\ReadyToMergeState.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAgwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:51:30.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemsState.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\State\\ItemsState.cs",
+              "RelativeDocumentMoniker": "DPProject\\State\\ItemsState.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\State\\ItemsState.cs",
+              "RelativeToolTip": "DPProject\\State\\ItemsState.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:44:43.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ItemContext.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\Composite\\ItemContext.cs",
+              "RelativeDocumentMoniker": "DPProject\\Composite\\ItemContext.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\Composite\\ItemContext.cs*",
+              "RelativeToolTip": "DPProject\\Composite\\ItemContext.cs*",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowDUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:37:00.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Memento.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\Memento\\Memento.cs",
+              "RelativeDocumentMoniker": "DPProject\\Memento\\Memento.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\Memento\\Memento.cs",
+              "RelativeToolTip": "DPProject\\Memento\\Memento.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:37:48.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMemento.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\Memento\\IMemento.cs",
+              "RelativeDocumentMoniker": "DPProject\\Memento\\IMemento.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\Memento\\IMemento.cs",
+              "RelativeToolTip": "DPProject\\Memento\\IMemento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:40:38.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\Composite\\File.cs",
+              "RelativeDocumentMoniker": "DPProject\\Composite\\File.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\Composite\\File.cs",
+              "RelativeToolTip": "DPProject\\Composite\\File.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:51:29.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Folder.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\Composite\\Folder.cs",
+              "RelativeDocumentMoniker": "DPProject\\Composite\\Folder.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\Composite\\Folder.cs*",
+              "RelativeToolTip": "DPProject\\Composite\\Folder.cs*",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:51:29.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DPProject.csproj",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\DPProject.csproj",
+              "RelativeDocumentMoniker": "DPProject\\DPProject.csproj",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D9\u0026\u05EA\u05D4\u05D9\u05DC\u05D4\\DPProject\\DPProject\\DPProject.csproj",
+              "RelativeToolTip": "DPProject\\DPProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-29T08:51:29.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FileSystemComposite.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\\u05E0\u05D7\u05DE\u05D4\\\u05DE\u05E1\u05DC\u05D5\u05D5\u05D5\u05D5\u05D5\u05DC\\Desighn Paterns\\DesignPaterensProject\\DPProject\\DPProject\\Composite\\FileSystemComposite.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Owner\\Desktop\\\u05E0\u05D7\u05DE\u05D4\\\u05DE\u05E1\u05DC\u05D5\u05D5\u05D5\u05D5\u05D5\u05DC\\Desighn Paterns\\DesignPaterensProject\\DPProject\\DPProject\\Composite\\FileSystemComposite.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\\u05E0\u05D7\u05DE\u05D4\\\u05DE\u05E1\u05DC\u05D5\u05D5\u05D5\u05D5\u05D5\u05DC\\Desighn Paterns\\DesignPaterensProject\\DPProject\\DPProject\\Composite\\FileSystemComposite.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Owner\\Desktop\\\u05E0\u05D7\u05DE\u05D4\\\u05DE\u05E1\u05DC\u05D5\u05D5\u05D5\u05D5\u05D5\u05DC\\Desighn Paterns\\DesignPaterensProject\\DPProject\\DPProject\\Composite\\FileSystemComposite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:51:29.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FileState.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\\u05E0\u05D7\u05DE\u05D4\\\u05DE\u05E1\u05DC\u05D5\u05D5\u05D5\u05D5\u05D5\u05DC\\Desighn Paterns\\DesignPaterensProject\\DPProject\\DPProject\\State\\FileState.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Owner\\Desktop\\\u05E0\u05D7\u05DE\u05D4\\\u05DE\u05E1\u05DC\u05D5\u05D5\u05D5\u05D5\u05D5\u05DC\\Desighn Paterns\\DesignPaterensProject\\DPProject\\DPProject\\State\\FileState.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\\u05E0\u05D7\u05DE\u05D4\\\u05DE\u05E1\u05DC\u05D5\u05D5\u05D5\u05D5\u05D5\u05DC\\Desighn Paterns\\DesignPaterensProject\\DPProject\\DPProject\\State\\FileState.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Owner\\Desktop\\\u05E0\u05D7\u05DE\u05D4\\\u05DE\u05E1\u05DC\u05D5\u05D5\u05D5\u05D5\u05D5\u05DC\\Desighn Paterns\\DesignPaterensProject\\DPProject\\DPProject\\State\\FileState.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:51:29.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FileOriginator.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\\u05E0\u05D7\u05DE\u05D4\\\u05DE\u05E1\u05DC\u05D5\u05D5\u05D5\u05D5\u05D5\u05DC\\Desighn Paterns\\DesignPaterensProject\\DPProject\\DPProject\\Hobserver\\FileOriginator.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Owner\\Desktop\\\u05E0\u05D7\u05DE\u05D4\\\u05DE\u05E1\u05DC\u05D5\u05D5\u05D5\u05D5\u05D5\u05DC\\Desighn Paterns\\DesignPaterensProject\\DPProject\\DPProject\\Hobserver\\FileOriginator.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\\u05E0\u05D7\u05DE\u05D4\\\u05DE\u05E1\u05DC\u05D5\u05D5\u05D5\u05D5\u05D5\u05DC\\Desighn Paterns\\DesignPaterensProject\\DPProject\\DPProject\\Hobserver\\FileOriginator.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Owner\\Desktop\\\u05E0\u05D7\u05DE\u05D4\\\u05DE\u05E1\u05DC\u05D5\u05D5\u05D5\u05D5\u05D5\u05DC\\Desighn Paterns\\DesignPaterensProject\\DPProject\\DPProject\\Hobserver\\FileOriginator.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:51:29.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FileCaretaker.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\\u05E0\u05D7\u05DE\u05D4\\\u05DE\u05E1\u05DC\u05D5\u05D5\u05D5\u05D5\u05D5\u05DC\\Desighn Paterns\\DesignPaterensProject\\DPProject\\DPProject\\Hobserver\\FileCaretaker.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Owner\\Desktop\\\u05E0\u05D7\u05DE\u05D4\\\u05DE\u05E1\u05DC\u05D5\u05D5\u05D5\u05D5\u05D5\u05DC\\Desighn Paterns\\DesignPaterensProject\\DPProject\\DPProject\\Hobserver\\FileCaretaker.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\\u05E0\u05D7\u05DE\u05D4\\\u05DE\u05E1\u05DC\u05D5\u05D5\u05D5\u05D5\u05D5\u05DC\\Desighn Paterns\\DesignPaterensProject\\DPProject\\DPProject\\Hobserver\\FileCaretaker.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Owner\\Desktop\\\u05E0\u05D7\u05DE\u05D4\\\u05DE\u05E1\u05DC\u05D5\u05D5\u05D5\u05D5\u05D5\u05DC\\Desighn Paterns\\DesignPaterensProject\\DPProject\\DPProject\\Hobserver\\FileCaretaker.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAewBMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:51:29.175Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+C:\Users\Owner\Desktop\נחמה\מסלווווול\Desighn Paterns\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\נחמה\מסלווווול\Desighn Paterns\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\נחמה\מסלווווול\Desighn Paterns\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.AssemblyInfo.cs
+C:\Users\Owner\Desktop\נחמה\מסלווווול\Desighn Paterns\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\נחמה\מסלווווול\Desighn Paterns\DesignPaterensProject\DPProject\DPProject\bin\Debug\net7.0\DPProject.exe
+C:\Users\Owner\Desktop\נחמה\מסלווווול\Desighn Paterns\DesignPaterensProject\DPProject\DPProject\bin\Debug\net7.0\DPProject.deps.json
+C:\Users\Owner\Desktop\נחמה\מסלווווול\Desighn Paterns\DesignPaterensProject\DPProject\DPProject\bin\Debug\net7.0\DPProject.runtimeconfig.json
+C:\Users\Owner\Desktop\נחמה\מסלווווול\Desighn Paterns\DesignPaterensProject\DPProject\DPProject\bin\Debug\net7.0\DPProject.dll
+C:\Users\Owner\Desktop\נחמה\מסלווווול\Desighn Paterns\DesignPaterensProject\DPProject\DPProject\bin\Debug\net7.0\DPProject.pdb
+C:\Users\Owner\Desktop\נחמה\מסלווווול\Desighn Paterns\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.dll
+C:\Users\Owner\Desktop\נחמה\מסלווווול\Desighn Paterns\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\refint\DPProject.dll
+C:\Users\Owner\Desktop\נחמה\מסלווווול\Desighn Paterns\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.pdb
+C:\Users\Owner\Desktop\נחמה\מסלווווול\Desighn Paterns\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.genruntimeconfig.cache
+C:\Users\Owner\Desktop\נחמה\מסלווווול\Desighn Paterns\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\ref\DPProject.dll
+H:\לתהילה\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\לתהילה\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.AssemblyInfoInputs.cache
+H:\לתהילה\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.AssemblyInfo.cs
+H:\לתהילה\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.csproj.CoreCompileInputs.cache
+H:\לתהילה\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.dll
+H:\לתהילה\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\refint\DPProject.dll
+H:\לתהילה\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.pdb
+H:\לתהילה\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.csproj.AssemblyReference.cache
+H:\לתהילה\DesignPaterensProject\DPProject\DPProject\bin\Debug\net7.0\DPProject.exe
+H:\לתהילה\DesignPaterensProject\DPProject\DPProject\bin\Debug\net7.0\DPProject.deps.json
+H:\לתהילה\DesignPaterensProject\DPProject\DPProject\bin\Debug\net7.0\DPProject.runtimeconfig.json
+H:\לתהילה\DesignPaterensProject\DPProject\DPProject\bin\Debug\net7.0\DPProject.dll
+H:\לתהילה\DesignPaterensProject\DPProject\DPProject\bin\Debug\net7.0\DPProject.pdb
+H:\לתהילה\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.genruntimeconfig.cache
+H:\לתהילה\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\ref\DPProject.dll
+H:\יהבצאכטרו\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\יהבצאכטרו\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.AssemblyInfoInputs.cache
+H:\יהבצאכטרו\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.AssemblyInfo.cs
+H:\יהבצאכטרו\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.csproj.CoreCompileInputs.cache
+H:\יהבצאכטרו\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.dll
+H:\יהבצאכטרו\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\refint\DPProject.dll
+H:\יהבצאכטרו\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.pdb
+C:\Users\Owner\Desktop\DesignPaterensProject\DPProject\DPProject\bin\Debug\net7.0\DPProject.exe
+C:\Users\Owner\Desktop\DesignPaterensProject\DPProject\DPProject\bin\Debug\net7.0\DPProject.deps.json
+C:\Users\Owner\Desktop\DesignPaterensProject\DPProject\DPProject\bin\Debug\net7.0\DPProject.runtimeconfig.json
+C:\Users\Owner\Desktop\DesignPaterensProject\DPProject\DPProject\bin\Debug\net7.0\DPProject.dll
+C:\Users\Owner\Desktop\DesignPaterensProject\DPProject\DPProject\bin\Debug\net7.0\DPProject.pdb
+C:\Users\Owner\Desktop\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.AssemblyInfo.cs
+C:\Users\Owner\Desktop\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.dll
+C:\Users\Owner\Desktop\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\refint\DPProject.dll
+C:\Users\Owner\Desktop\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.pdb
+C:\Users\Owner\Desktop\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\DPProject.genruntimeconfig.cache
+C:\Users\Owner\Desktop\DesignPaterensProject\DPProject\DPProject\obj\Debug\net7.0\ref\DPProject.dll
+C:\Users\נחמה\Desktop\פרויקט אני&תהילה\DPProject\DPProject\bin\Debug\net7.0\DPProject.exe
+C:\Users\נחמה\Desktop\פרויקט אני&תהילה\DPProject\DPProject\bin\Debug\net7.0\DPProject.deps.json
+C:\Users\נחמה\Desktop\פרויקט אני&תהילה\DPProject\DPProject\bin\Debug\net7.0\DPProject.runtimeconfig.json
+C:\Users\נחמה\Desktop\פרויקט אני&תהילה\DPProject\DPProject\bin\Debug\net7.0\DPProject.dll
+C:\Users\נחמה\Desktop\פרויקט אני&תהילה\DPProject\DPProject\bin\Debug\net7.0\DPProject.pdb
+C:\Users\נחמה\Desktop\פרויקט אני&תהילה\DPProject\DPProject\obj\Debug\net7.0\DPProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\נחמה\Desktop\פרויקט אני&תהילה\DPProject\DPProject\obj\Debug\net7.0\DPProject.AssemblyInfoInputs.cache
+C:\Users\נחמה\Desktop\פרויקט אני&תהילה\DPProject\DPProject\obj\Debug\net7.0\DPProject.AssemblyInfo.cs
+C:\Users\נחמה\Desktop\פרויקט אני&תהילה\DPProject\DPProject\obj\Debug\net7.0\DPProject.csproj.CoreCompileInputs.cache
+C:\Users\נחמה\Desktop\פרויקט אני&תהילה\DPProject\DPProject\obj\Debug\net7.0\DPProject.dll
+C:\Users\נחמה\Desktop\פרויקט אני&תהילה\DPProject\DPProject\obj\Debug\net7.0\refint\DPProject.dll
+C:\Users\נחמה\Desktop\פרויקט אני&תהילה\DPProject\DPProject\obj\Debug\net7.0\DPProject.pdb
+C:\Users\נחמה\Desktop\פרויקט אני&תהילה\DPProject\DPProject\obj\Debug\net7.0\DPProject.genruntimeconfig.cache
+C:\Users\נחמה\Desktop\פרויקט אני&תהילה\DPProject\DPProject\obj\Debug\net7.0\ref\DPProject.dll
+C:\Users\Owner\Desktop\GitHubInCS\DPProject\bin\Debug\net7.0\DPProject.exe
+C:\Users\Owner\Desktop\GitHubInCS\DPProject\bin\Debug\net7.0\DPProject.deps.json
+C:\Users\Owner\Desktop\GitHubInCS\DPProject\bin\Debug\net7.0\DPProject.runtimeconfig.json
+C:\Users\Owner\Desktop\GitHubInCS\DPProject\bin\Debug\net7.0\DPProject.dll
+C:\Users\Owner\Desktop\GitHubInCS\DPProject\bin\Debug\net7.0\DPProject.pdb
+C:\Users\Owner\Desktop\GitHubInCS\DPProject\obj\Debug\net7.0\DPProject.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\GitHubInCS\DPProject\obj\Debug\net7.0\DPProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\GitHubInCS\DPProject\obj\Debug\net7.0\DPProject.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\GitHubInCS\DPProject\obj\Debug\net7.0\DPProject.AssemblyInfo.cs
+C:\Users\Owner\Desktop\GitHubInCS\DPProject\obj\Debug\net7.0\DPProject.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\GitHubInCS\DPProject\obj\Debug\net7.0\DPProject.dll
+C:\Users\Owner\Desktop\GitHubInCS\DPProject\obj\Debug\net7.0\refint\DPProject.dll
+C:\Users\Owner\Desktop\GitHubInCS\DPProject\obj\Debug\net7.0\DPProject.pdb
+C:\Users\Owner\Desktop\GitHubInCS\DPProject\obj\Debug\net7.0\DPProject.genruntimeconfig.cache
+C:\Users\Owner\Desktop\GitHubInCS\DPProject\obj\Debug\net7.0\ref\DPProject.dll
